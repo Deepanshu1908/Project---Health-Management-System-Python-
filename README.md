@@ -1,13 +1,9 @@
 # Project - Health-Management-System-(Python)
 
-The main idea behind this project is:
+The core concept of this project revolves around:
 
-Logging of Food items eaten by an individual with its accurate time.
+• Recording food consumption by individuals with precise timestamps.
+• Tracking exercises performed by individuals with precise timestamps.
+• Facilitating the extraction of logged exercise and food data as required.
 
-Logging of type of Exercises done by an individual with its accurate time.
-
-Also to extract logged exercise and food information whenever needed.
-
-This program will run continuously because of the use of infinite while loop. In short, its a kind of ledger for logging and extracting information about food eaten and exercises done.
-
-This project is developed mainly on File I/O Concept.
+The program operates continuously due to the utilization of an infinite while loop. Essentially, it functions as a ledger for logging and retrieving information regarding food consumption and exercise activities. This project primarily utilizes File I/O concepts for implementation.
