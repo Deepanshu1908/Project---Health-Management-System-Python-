@@ -2,7 +2,7 @@
 
 The core concept of this project revolves around:
 
-• Recording food consumption by individuals with precise timestamps.
+• Recording food consumption by individuals with precise timestamps. \n
 • Tracking exercises performed by individuals with precise timestamps.
 • Facilitating the extraction of logged exercise and food data as required.
 
